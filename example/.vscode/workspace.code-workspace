@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.old": "c",
+			"stdint.h": "c",
+			"stdlib.h": "c"
+		},
+		"cortex-debug.openocdPath": "/Users/jh/dev/pico/openocd/src/openocd",
+		"cortex-debug.enableTelemetry": false,
+		"cortex-debug.registerUseNaturalFormat": false
+	}
+}

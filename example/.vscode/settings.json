@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    "*.old": "c"
+  },
+  "cmake.statusbar.advanced": {
+      "debug": {
+          "visibility": "hidden"
+      },
+      "launch": {
+          "visibility": "hidden"
+      },
+      "build": {
+          "visibility": "default"
+      },
+      "buildTarget": {
+          "visibility": "hidden"
+      }
+  },
+  "cmake.configureEnvironment": {
+    "PICO_SDK_PATH": "/Users/jh/dev/pico/pico-sdk"
+  },
+  "cmake.environment": {
+    "PICO_SDK_PATH": "/Users/jh/dev/pico/pico-sdk"
+  },
+  "cmake.buildBeforeRun": true,
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+  "cortex-debug.openocdPath": "/Users/jh/dev/pico/openocd/src/openocd"
+}
